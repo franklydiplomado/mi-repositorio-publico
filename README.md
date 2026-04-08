@@ -14,3 +14,6 @@ tecnologias utilizadas:
 **copiar url del proyecto***
 ***autor**
 FRANKLY DUQUE**
+
+***Status
+Finalizado en la version 1.0
